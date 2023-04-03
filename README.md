@@ -17,15 +17,6 @@ This project does use of two Bash scripts one to insert dynamicly CSV data of th
 ![Alt text](/public/games.webp)
 
 
-## Bash Script
-
-Here is the commands and its output:
-- Enter `./worldcup.sh` command in the bash terminal to run the script to insert data and interacts with the Worldcup database.
-
-#### Part 1
-![Alt text](/public/result.webp)
-
-
 ## Conclusion
 
 This script project demonstrates the use of Bash to store dynamicly data into PostgreSQL database and managing diferents complex queries to get information required of the database.
